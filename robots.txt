@@ -1,0 +1,4 @@
+# Crawling is not permitted for any cooperating crawler.
+# This is a request, not authentication or an indexing guarantee.
+User-agent: *
+Disallow: /

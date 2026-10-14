@@ -1,0 +1,4 @@
+# Local operating-system files. This file does not control web crawlers.
+.DS_Store
+Thumbs.db
+Desktop.ini
